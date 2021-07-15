@@ -1,3 +1,6 @@
+#ifndef __LLVM_FIBONACCI__
+#define __LLVM_FIBONACCI__
+
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -31,3 +34,5 @@ void            CreateIfRetFibonacciFunc            (LLVMBuilderRef* builder, LL
 void            CreateRecursiveRetFibonacciFunc     (LLVMBuilderRef* builder, LLVMValueRef* fibFunc, LLVMBasicBlockRef* returnBB);
 
 void            RunFibonacciFunction                (LLVMModuleRef* module, const char* funcName, int arg, char** error);
+
+#endif
