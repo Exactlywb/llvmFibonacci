@@ -1,0 +1,4 @@
+/home/ufa/Desktop/ISP/Fibonacci/CMakeFiles/rebuild_cache.dir
+/home/ufa/Desktop/ISP/Fibonacci/CMakeFiles/edit_cache.dir
+/home/ufa/Desktop/ISP/Fibonacci/CMakeFiles/main.dir
+/home/ufa/Desktop/ISP/Fibonacci/CMakeFiles/intrinsics_gen.dir
